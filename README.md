@@ -57,6 +57,7 @@ To run the Restaurant Recommendation System on your local machine, you'll need t
 4. Create a superuser account by running `python manage.py createsuperuser`
 5. Run the development server by running `python manage.py runserver`
 
+
 ## License
 
 The Restaurant Recommendation System is released under the MIT License.
